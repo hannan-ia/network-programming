@@ -1,3 +1,4 @@
 # network-programming
 
-Using sockets to enable remote prgrams communicate
+Using sockets to enable remote applications to communicate
+uses TCP protocol
